@@ -1,0 +1,7 @@
+{
+  "name": "La Brisa Asset Manager",
+  "description": "A professional-grade inventory tracking solution for short-term rental hosts to manage furnishings, appliances, and amenities across multiple properties with AI-powered suggestions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
